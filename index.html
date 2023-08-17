@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+
+{% include career-profile.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include educational-background.html %}
+
+{% include experiences.html %}
+
+{% include certifications.html %}
+
+{% include projects.html %}
+
+{% include oss-contributions.html %}
+
+{% include publications.html %}
+
+{% include workshops.html %}
+
+{% include presentations.html %}
+
+{% include academic-activities.html %}
+
+{% include skills.html %}
+
