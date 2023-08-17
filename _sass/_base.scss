@@ -234,21 +234,24 @@ p {
 
   .publication-title,
   .workshop-title,
-  .presentation-title {
+  .presentation-title,
+  .award-title {
     font-size: 16px;
     font-weight: 400;
     color: $text-color;
     margin-bottom: 1px;
   }
   .publication-authors,
-  .workshop-authors {
+  .workshop-authors,
+  .award-authors {
     font-style: italic;
     color: $text-grey;
     margin-bottom: 1px;
   }
   .publications-section,
   .workshops-section,
-  .presentations-section {
+  .presentations-section,
+  .awards-section {
     .intro {
       margin-bottom: 30px;
     }

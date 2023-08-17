@@ -260,6 +260,17 @@ presentations:
         link: https://www.slideshare.net/KenshiAbe/ai-165308197
         event: 第43回 強化学習アーキテクチャ勉強会.
 
+awards:
+    title: 受賞
+    intro:
+    papers:
+      - title: FIT船井ベストペーパー賞（第20回情報科学技術フォーラム）
+        time: 2021
+        link: https://www.ipsj.or.jp/award/9faeag0000004eyo-att/CF-002.pdf
+      - title: ベストポスター発表賞（第12回進化計算学会研究会）
+        time: 2017
+        link: http://www.jpnsec.org/symposium201701.html
+
 academic-activities:
     title: 学術活動
     summary: 国際会議査読：NeurIPS (2022, 2023), AISTATS (2023), UAI (2023), ICML (2023).
